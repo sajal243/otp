@@ -1,0 +1,1 @@
+export const regex = new RegExp("^[0-9]+$");
